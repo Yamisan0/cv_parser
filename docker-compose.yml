@@ -1,0 +1,71 @@
+
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: frontend
+    depends_on:
+      - backend
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    volumes:
+      - ./frontend:/frontend
+    restart: always
+    networks:
+      - mynetwork
+
+  postgres:
+    image: postgres:latest
+    container_name: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - local_pgdata:/var/lib/postgresql/data
+      - ./backend/init.sql:/docker-entrypoint-initdb.d/init.sql
+    env_file:
+      - .env
+    networks:
+      - mynetwork
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: backend
+    depends_on:
+      - postgres
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./backend:/backend
+      - ./uploads:/uploads
+    restart: always
+    networks:
+      - mynetwork
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin
+    depends_on:
+      - postgres
+    ports:
+      - "5050:80"
+    env_file:
+      - .env
+    restart: always
+    volumes:
+      - pgadmin-data:/var/lib/pgadmin
+    networks:
+      - mynetwork
+
+volumes:
+  local_pgdata:
+  pgadmin-data:
+
+networks:
+  mynetwork:

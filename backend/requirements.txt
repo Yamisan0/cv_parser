@@ -1,0 +1,19 @@
+fastapi==0.70.0
+uvicorn==0.15.0
+pydantic==1.8.2
+sqlalchemy==1.4.52
+psycopg2-binary
+python-dotenv
+passlib
+pydantic[email]
+PyJWT
+
+#Dependance extractor
+
+pytesseract
+pdf2image
+pdfminer.six
+fuzzywuzzy
+python-Levenshtein
+pymupdf
+python-multipart

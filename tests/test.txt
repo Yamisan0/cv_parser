@@ -1,0 +1,334 @@
+domaines
+Jeux vidéo
+video games
+games
+Réalité virtuelle
+Virtual reality
+VR
+Intelligence artificielle
+Artificial intelligence
+IA
+Apprentissage automatique
+Machine learning
+ML
+Deep learning
+Réseau de neurones
+Neural networks
+NN
+Vision par ordinateur
+Computer vision
+fullstack
+full stack
+full-stack
+CV
+Traitement du langage naturel
+Natural language processing
+NLP
+Generative adversarial networks
+GAN
+Robotique
+Robotics
+Internet des objets
+Internet of Things
+IoT
+Cybersécurité
+Cybersecurity
+Blockchain
+Cloud computing
+Big Data
+Analyse de données
+Data analytics
+Systèmes embarqués
+Embedded systems
+Ingénierie logicielle
+Software engineering
+Développement mobile
+Mobile development
+Systèmes d'exploitation
+Operating systems
+OS
+Bases de données
+Databases
+DB
+Systèmes distribués
+Distributed systems
+Réseaux informatiques
+Computer networks
+UX
+UI
+UX/UI
+UI/UX
+web
+devops
+operating_systems
+Windows
+macOS
+Linux
+Android
+iOS
+Ubuntu
+Debian
+Fedora
+CentOS
+RedHat
+UNIX
+FreeBSD
+OpenBSD
+NetBSD
+Chrome OS
+Solaris
+AIX
+HP-UX
+bases_de_donnees
+MySQL
+PostgreSQL
+Oracle Database
+Microsoft SQL Server
+SQLite
+MariaDB
+IBM Db2
+Amazon RDS (Relational Database Service)
+MongoDB
+Cassandra
+Redis
+Couchbase
+Amazon DynamoDB
+Apache HBase
+Neo4j (graph database)
+Elasticsearch (search engine)
+CouchDB
+RavenDB
+Prisma
+spoken_languages
+francais
+français
+espagnol
+anglais
+allemand
+arabe
+chinois
+mandarin
+cantonais
+japonais
+hindi
+russe
+portugais
+italien
+néerlandais
+suédois
+polonais
+coréen
+danois
+norvégien
+grec
+finnois
+tchèque
+turc
+hongrois
+thaï
+thai
+thailandais
+indonésien
+roumain
+bulgare
+croate
+serbe
+ukrainien
+slovaque
+lituanien
+letton
+estonien
+slovène
+hébreu
+malais
+persan
+vietnamien
+bosniaque
+macédonien
+albanais
+swahili
+tagalog
+islandais
+maltais
+catalan
+basque
+galicien
+irlandais
+scots gaelic
+luxembourgeois
+esperanto
+devops_tools
+Docker
+Kubernetes
+Jenkins
+Git
+Gitlab
+Ansible
+Puppet
+Chef
+Vagrant
+Terraform
+AWS
+Azure 
+Google Cloud
+CircleCI
+Travis
+TeamCity
+Bamboo
+Nagios
+Prometheus
+ELK
+Elasticsearch
+Logstash
+Kibana
+Grafana
+Splunk
+Relic
+driving_licenses
+permis B
+véhiculé
+permis moto
+permis voiture
+permis remorque
+permis 125
+driver license
+soft_skills
+Communication efficace
+Esprit d'équipe
+Leadership
+Adaptabilité
+Résolution de problèmes
+Pensée critique
+Créativité
+Gestion du temps
+Autonomie
+Flexibilité
+Orientation client
+Intelligence émotionnelle
+Gestion du stress
+Collaboration
+Empathie
+Esprit d'initiative
+Prise de décision
+Gestion du changement
+Assertivité
+Négociation
+Capacité d'apprentissage rapide
+Développement de soi
+programming-languages
+Python
+Bash
+Java
+JavaScript
+C
+C++
+C#
+Ruby
+Go
+Swift
+Kotlin
+Rust
+TypeScript
+PHP
+MATLAB
+R
+Perl
+Lua
+Shell
+HTML
+CSS
+SQL
+Objective-C
+Scala
+Haskell
+Groovy
+Dart
+VB.NET
+F#
+Clojure
+Elixir
+Erlang
+Prolog
+Assembly
+Racket
+Fortran
+Ada
+Julia
+Scheme
+PowerShell
+COBOL
+Lisp
+Unity
+Godot
+Unreal Engine
+design
+HTML
+CSS
+Illustrator
+Photoshop
+Sketch
+InDesign
+Prototyping
+Wireframing
+User Research
+Information Architecture
+Interaction Design
+Visual Design
+Responsive Design
+Mobile App Design
+Web Design
+Typography
+Color Theory
+User Interface Design
+User Experience Design
+Design Systems
+Adobe Creative Suite
+Figma
+InVision
+Principle
+Zeplin
+HTML5
+CSS3
+JavaScript
+jQuery
+Bootstrap
+Sass
+Responsive Web Design
+Usability Testing
+A/B Testing
+Data-driven Design
+Animate
+web_frameworks
+Django
+Ruby on Rails
+Laravel
+Express.js
+Flask
+ASP.NET
+AngularJS
+Angular.js
+React
+React.js
+ReactJS
+VueJS
+Vue.js
+EmberJS
+Ember.js
+Spring Boot
+Symfony
+ASP.NET Core
+Meteor
+Play Framework
+CodeIgniter
+Zend Framework
+CakePHP
+FuelPHP
+Sinatra
+Nest.js
+NestJS
+Gatsby
+Next.js
+NextJS
+Phoenix
+NodeJS
+Node.js
